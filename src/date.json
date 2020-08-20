@@ -1,0 +1,57 @@
+{
+    "products": [
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Somali Fation Hidiyo Dhaqan",
+            "description": "This Is The Latst Dress That Aala Yusuf has bee ready for you",
+            "available": ["XL", "L", "XXL", "M"],
+            "price": 34.1
+        },
+        {
+
+            "_id": "dress2",
+            "image": "/images/dress2.jpg",
+            "title": "Somali Fation Called Aala Yuusuf  ",
+            "description": "This Is The Latst Dress That Aala Yusuf has bee ready for you",
+            "available": ["XXL", "M"],
+            "price": 24.2
+        },
+        {
+
+            "_id": "dress3",
+            "image": "/images/dress3.jpg",
+            "title": "Somali Fation Called Aala Yuusuf  ",
+            "description": "This Is The Latst Dress That Aala Yusuf has bee ready for you",
+            "available": ["XL", "XXL", "M"],
+            "price": 22.3
+        },
+        {
+
+            "_id": "dress4",
+            "image": "/images/dress4.jpg",
+            "title": "Somali Fation Called Aala Yuusuf  ",
+            "description": "This Is The Latst Dress That Aala Yusuf has bee ready for you",
+            "available": ["XL", "L", "XXL"],
+            "price": 42.4
+        },
+        {
+
+            "_id": "dress5",
+            "image": "/images/dress5.jpg",
+            "title": "Somali Fation Called Aala Yuusuf  ",
+            "description": "This Is The Latst Dress That Aala Yusuf has bee ready for you",
+            "available": ["XL", "L", "XXXL", "XXL", "M"],
+            "price": 21.5
+        },
+        {
+
+            "_id": "dress6",
+            "image": "/images/dress6.jpg",
+            "title": "Somali Fation Called Aala Yuusuf  ",
+            "description": "This Is The Latst Dress That Aala Yusuf has bee ready for you",
+            "available": ["XL", "XXL", "M"],
+            "price": 76.6
+        }
+    ]
+}
